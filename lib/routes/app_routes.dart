@@ -1,15 +1,15 @@
 class AppRoutes {
-  static const String splash = '/splash';
-  static const String home = '/home';
-  static const String main = '/main';
-  static const String login = '/login';
-  static const String register = '/register';
-  static const String forgotPassword = '/forgot-password';
-  static const String changePassword = '/change-password';
-  static const String profile = '/profile';
-  static const String chat = '/chat';
-  static const String userList = '/user-list';
-  static const String friends = '/friends';
-  static const String friendsRequest = '/friends-request';
-  static const String notifications = '/notifications';
+  static const splash = '/splash';
+  static const home = '/home';
+  static const main = '/main';
+  static const login = '/login';
+  static const register = '/register';
+  static const forgotPassword = '/forgot-password';
+  static const changePassword = '/change-password';
+  static const profile = '/profile';
+  static const chat = '/chat';
+  static const userList = '/user-list';
+  static const friends = '/friends';
+  static const friendsRequest = '/friends-request';
+  static const notifications = '/notifications';
 }
